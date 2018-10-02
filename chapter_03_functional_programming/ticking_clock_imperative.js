@@ -1,3 +1,7 @@
+/**
+Example of the Ticking Clock using imperative JavaScript (Bad)
+*/
+
 // Log Clock Time every Second
 setInterval(logClockTime, 1000);
 
